@@ -1,0 +1,75 @@
+﻿  console.cpp
+C:\Users\user\Desktop\shootingConsoleGame_final\console.cpp(12,16): warning C4838:  'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  enemy.cpp
+C:\Users\user\Desktop\shootingConsoleGame_final\console.cpp(12,23): warning C4838:  'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+  main.cpp
+C:\Users\user\Desktop\shootingConsoleGame_final\enemy.cpp(55,12): warning C4244:  '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(27,38): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(27,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(29,38): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(29,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(31,38): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(31,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(66,31): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(66,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(101,29): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(101,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(111,37): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(111,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(113,37): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(113,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(115,37): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(115,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(231,31): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  mysql.cpp
+C:\Users\user\Desktop\shootingConsoleGame_final\main.cpp(231,17): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\mysql.cpp(13,30): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  player.cpp
+C:\Users\user\Desktop\shootingConsoleGame_final\mysql.cpp(13,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\player.cpp(6,22): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\player.cpp(7,23): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\player.cpp(10,22): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  print.cpp
+C:\Users\user\Desktop\shootingConsoleGame_final\player.cpp(11,23): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(34,14): warning C4244:  '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(38,22): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(40,36): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(40,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(42,36): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(42,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(44,36): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(44,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(46,36): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(46,16): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(52,59): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(57,59): warning C4244:  '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(73,29): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(73,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(79,29): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(79,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(81,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(81,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(83,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(83,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(85,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(85,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(87,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(87,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(89,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(89,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(91,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(91,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(93,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(93,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(95,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(95,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(97,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(97,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(99,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(99,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(101,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(101,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(103,35): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+C:\Users\user\Desktop\shootingConsoleGame_final\print.cpp(103,15): warning C4244:  '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  shootingConsoleGame_final.vcxproj -> C:\Users\user\Desktop\shootingConsoleGame_final\x64\Debug\shootingConsoleGame_final.exe
